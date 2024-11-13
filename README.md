@@ -9,7 +9,7 @@ Significado:  Es un espacio donde se almacena y gestiona un proyecto o conjunto 
 Si aún no tienes una cuenta en GitHub, deberás registrarte:
 
 Visita GitHub.com.
-Haz clic en Sign up y sigue las instrucciones para crear una cuenta.
+Haz clic en Sign up y sigue las instrucciones para crear una cuenta. <br>
 2. Crear un nuevo repositorio
 Una vez que hayas iniciado sesión en GitHub, sigue estos pasos para crear un nuevo repositorio:
 
