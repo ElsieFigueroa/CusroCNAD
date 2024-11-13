@@ -5,12 +5,14 @@ Significado:  Es un espacio donde se almacena y gestiona un proyecto o conjunto 
 
 ## Pasos para crear un repositorio en GitHub
 
-1. Crear una cuenta en GitHub (si no la tienes)
+ <p style="background-color: blue; padding: 10px;"> 
+   **1.** Crear una cuenta en GitHub (si no la tienes)
 Si aún no tienes una cuenta en GitHub, deberás registrarte:
 
 Visita GitHub.com.
-Haz clic en Sign up y sigue las instrucciones para crear una cuenta. <br>
-2. Crear un nuevo repositorio
+Haz clic en Sign up y sigue las instrucciones para crear una cuenta. <br> </p>
+<p style="background-color: pink; padding: 10px;">
+  **2.** Crear un nuevo repositorio
 Una vez que hayas iniciado sesión en GitHub, sigue estos pasos para crear un nuevo repositorio:
 
 Ir a la página principal de GitHub:
@@ -27,6 +29,6 @@ Initialize this repository with (Inicializar este repositorio con):
 Add a README file: Marca esta opción para agregar un archivo README.md al repositorio. El archivo README.md es muy importante para describir tu proyecto y cómo usarlo.
 Add .gitignore: Puedes seleccionar una plantilla de .gitignore si es necesario (por ejemplo, si estás trabajando con Node.js, puedes seleccionar una plantilla para Node.js). El archivo .gitignore le dice a Git qué archivos o directorios no deben ser incluidos en el control de versiones.
 Choose a license: Selecciona una licencia para tu proyecto (opcional). Esto define cómo otros pueden usar tu código. Si no estás seguro, puedes elegir MIT License, que es una de las licencias más comunes y permisivas.
-Crear el repositorio: Una vez que hayas completado el formulario, haz clic en el botón Create repository.
+Crear el repositorio: Una vez que hayas completado el formulario, haz clic en el botón Create repository. </p>
 
 
